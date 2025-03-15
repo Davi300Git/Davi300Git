@@ -1,10 +1,8 @@
 ## Olá! Eu sou o Davi Sandro 👋 
 
-- 🔭Hoje eu trabalho como Jovem aprendiz
 - 🌱 Sou Técnico em Desevolvimento de Sistemas 
 - 🤔 Procurando melhorar em back-end, front-end e programação android
 - 📫 Contate-me no email: davisandro300@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Davi300Git">
