@@ -3,7 +3,7 @@
 - 🌱 Sou Técnico em Desevolvimento de Sistemas
 - 💻 Sou estudante de Desenvolvimeto Mobile no PROA
 - 🖥️ Sou estudante de Ciência da computação na Cruzeiro do Sul
-- 🤔 Procurando melhorar em Back-end, Front-end e programação Android
+- 🤔 Procurando melhorar em Back-end, Front-end e programação Mobile
 - 📫 Contate-me no email: davisandro300@gmail.com
 
 <div align="center">
