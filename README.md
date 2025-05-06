@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Davi Sandro 👋 
 
-- 🌱 Sou Técnico em Desevolvimento de Sistemas 
-- 🤔 Procurando melhorar em back-end, front-end e programação android
+- 🌱 Sou Técnico em Desevolvimento de Sistemas
+- 💻 Sou estudante de Desenvolvimeto Mobile no PROA
+- 🖥️ Sou estudante de Ciência da computação na Cruzeiro do Sul
+- 🤔 Procurando melhorar em Back-end, Front-end e programação Android
 - 📫 Contate-me no email: davisandro300@gmail.com
 
 <div align="center">
@@ -18,8 +20,6 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davi-CSS" height="50" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-AndroidStudio" height="100" width="100" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
   <img align="center" alt="Davi-React" height="80" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Davi-JS" height="50" width="40"
@@ -30,6 +30,8 @@
 
    <img align="center" alt="Davi-React" height="80" width="100"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Davi-AndroidStudio" height="100" width="100" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
           
   <div><h3>Redes Sociais</h3></div>
   
