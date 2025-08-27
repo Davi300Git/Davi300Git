@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Davi Sandro 👋 
-- 🥷 ExProano
+- 🥷 Ex-Proano
 - 🌱 Sou Técnico em Desevolvimento de Sistemas
 - 💻 Sou Técnico em Desenvolvimeto Mobile
 - 🖥️ Sou estudante de Ciência da computação na Cruzeiro do Sul
