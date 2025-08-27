@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Davi Sandro 👋 
-
+- 🥷 ExProano
 - 🌱 Sou Técnico em Desevolvimento de Sistemas
-- 💻 Sou estudante de Desenvolvimeto Mobile no PROA
+- 💻 Sou Técnico em Desenvolvimeto Mobile
 - 🖥️ Sou estudante de Ciência da computação na Cruzeiro do Sul
 - 🤔 Procurando melhorar em back-end, front-end, banco de dados e programação mobile
 - 📫 Contate-me no email: davisandro300@gmail.com
